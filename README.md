@@ -8,4 +8,4 @@ Script to download data from Amazon Web Services can be found [here](http://geol
 Direct implementation of above script didn't work to access and bulk download the Google Cloud data. The changes can be seen in step 10, 11 & 12 where the dataframe is edited to access to the correct Google URL.
 
 ## Issues
-* Current version doesnt download BQA band and meta data
+* Current version doesnt download BQA band and metadata
