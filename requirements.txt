@@ -1,0 +1,8 @@
+
+geopandas=0.6.3
+pandas=1.0.1
+folium=0.10.1
+numpy=1.18.1
+shapely=1.6.4
+requests=2.7.0
+wget=3.2
